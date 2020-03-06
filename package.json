@@ -1,0 +1,26 @@
+{
+  "name": "iot-fi-finals",
+  "version": "1.0.0",
+  "description": "A simple backend server with a few API endpoints set up for the IoT FI 2020. ",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DCKGEC/IoT-FI-Finals.git"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/DCKGEC/IoT-FI-Finals/issues"
+  },
+  "homepage": "https://github.com/DCKGEC/IoT-FI-Finals#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
